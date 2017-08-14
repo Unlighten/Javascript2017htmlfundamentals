@@ -1,4 +1,10 @@
-p {
+/*p {
 	color: lightblue;
-	border: 20px;
+}*/
+
+.div-1 {
+	background-color: lightblue;
+	padding: 8px;
+	font-style: oblique;
+	font-size: 20px;
 }
